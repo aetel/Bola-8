@@ -16,3 +16,6 @@ Proyect made for sfera 2018 by victor bernardos and lukilukeskywalker
   <li><a href="https://www.mouser.com/ProductDetail/712-BAT-HLD-001">Button Battery Holder</a> </li>
 <img src="https://github.com/aetel/Bola-8/blob/master/Pics%20Bola8%20keychain/Front%20Model%203D.PNG" alt="FRONT 3D MODEL"/>
 <img src="https://github.com/aetel/Bola-8/blob/master/Pics%20Bola8%20keychain/Back%20Model%203D.PNG" alt="BACK 3D MODEL"/>
+
+And of course, the leds are separated at the same distance (for those who have OCD ;))
+To make it work, just press the button, and move the Bola 8 up and down, while you make a question
