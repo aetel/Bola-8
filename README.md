@@ -1,4 +1,6 @@
 # Bola-8
+<img src="https://github.com/aetel/Bola-8/blob/master/Pics%20Bola8%20keychain/Side%20Model%203D.PNG" alt="SIDE 3D MODEL"/>
+
 Proyect made for sfera 2018 by victor bernardos and lukilukeskywalker
 <ul>
   The Bola 8, or more commonly known Magic ball 8, is a proyect based on the hackaday posted <a href="https://hackaday.com/2018/04/05/magic-8-ball-business-card-will-answer-all-your-questions/">proyect</a>
