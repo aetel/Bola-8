@@ -14,3 +14,5 @@ Proyect made for sfera 2018 by victor bernardos and lukilukeskywalker
   <li><a href="https://www.mouser.es/ProductDetail/595-CD74HC4017NSR">74HC4017</a> </li>
   <li><a href="https://www.mouser.com/ProductDetail/688-SKQGAKE010">One Push Button</a> </li>
   <li><a href="https://www.mouser.com/ProductDetail/712-BAT-HLD-001">Button Battery Holder</a> </li>
+<img src="https://github.com/aetel/Bola-8/blob/master/Pics%20Bola8%20keychain/Front%20Model%203D.PNG" alt="FRONT 3D MODEL"/>
+<img src="https://github.com/aetel/Bola-8/blob/master/Pics%20Bola8%20keychain/Back%20Model%203D.PNG" alt="BACK 3D MODEL"/>
